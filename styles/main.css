@@ -1,0 +1,14 @@
+header {
+  text-align: center;
+  font-size: 25px;
+}
+
+#input-text {
+  display: block;
+  margin: 10px auto;
+}
+
+#output-text {
+  display: block;
+  margin: 10px auto;
+}
